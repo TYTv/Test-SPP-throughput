@@ -1,0 +1,9 @@
+-I./../../../wiced_btsdk/dev-kit/baselib/20706A2/include
+-I./../../../wiced_btsdk/dev-kit/baselib/20706A2/include/hal
+-I./../../../wiced_btsdk/dev-kit/baselib/20706A2/include/internal
+-I./../../../wiced_btsdk/dev-kit/baselib/20706A2/include/stack
+-I./../../../wiced_btsdk/dev-kit/baselib/20706A2/internal/20706A2
+-I./../../../wiced_btsdk/dev-kit/btsdk-include
+-I./../../../wiced_btsdk/dev-kit/bsp/TARGET_CYBT-343026-EVAL
+-I./../../../wiced_btsdk/dev-kit/baselib/20706A2/WICED/common
+-I../../../wiced_btsdk/dev-kit/libraries/btsdk-rfcomm/COMPONENT_spp_lib

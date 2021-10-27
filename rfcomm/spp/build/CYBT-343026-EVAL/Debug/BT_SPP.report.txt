@@ -1,0 +1,17 @@
+
+Patch code starts at    0x0D0200 (RAM address)
+Patch code ends at      0x0DE9D8 (RAM address)
+Patch ram starts at     0x216AD0 (RAM address)
+Patch ram ends at       0x217A38 (RAM address)
+
+Application memory usage:
+           .text     SRAM start 0x217A38, end 0x218220, size 2024
+         .rodata     SRAM start 0x218220, end 0x2183B3, size 403
+           .data     SRAM start 0x2183B4, end 0x2183E0, size 44
+            .bss     SRAM start 0x2183E0, end 0x218898, size 1208
+          .setup     SRAM start 0x218898, end 0x218900, size 104
+  ram (SRAM): used 0x217A38 - 0x218900 size (3784)
+  Total application footprint 3784 (0xEC8)
+
+DS available 258048 (0x03F000) at 0x003000
+
